@@ -1,0 +1,26 @@
+# Required packages for AI Voice Agent Call Center
+
+# Core AI and LLM
+openai>=1.0.0
+
+# Speech Recognition
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# Text-to-Speech (Cartesia)
+requests>=2.31.0
+
+# Audio playback
+pygame>=2.5.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional: LiveKit (if using)
+# livekit-agents
+# livekit-plugins-openai
+# livekit-plugins-cartesia
