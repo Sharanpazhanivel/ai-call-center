@@ -10,7 +10,7 @@ An intelligent voice-enabled call center system with specialized AI agents that 
 ### 🤖 Four Specialized AI Agents
 
 - **Sarah (Sales)** - Professional female voice, enthusiastic product expert
-- **Bindu (Tech Support)** - Calm female voice, patient troubleshooter
+- **Lara (Tech Support)** - Calm female voice, patient troubleshooter
 - **Beth (Billing)** - Energetic female voice, precise billing specialist
 - **Alex (Appointments)** - Friendly male voice, efficient scheduler
 
